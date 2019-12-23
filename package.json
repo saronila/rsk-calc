@@ -1,0 +1,28 @@
+{
+  "name": "rsk-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "types": "lib",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  },
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saronila/rskrs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saronila/rskrs/issues"
+  },
+  "homepage": "https://github.com/saronila/rskrs#readme"
+}
