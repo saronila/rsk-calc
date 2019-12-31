@@ -1,6 +1,6 @@
 {
-  "name": "rsk-example",
-  "version": "1.0.0",
+  "name": "rsk-calc",
+  "version": "1.0.2",
   "description": "",
   "main": "lib/index.js",
   "directories": {

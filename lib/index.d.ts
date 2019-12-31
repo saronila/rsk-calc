@@ -1,3 +1,3 @@
-export declare const Greeter: (name: string) => string;
-export declare function add(a: number, b: number): number;
+export declare function add(): number;
+export declare function cancat(): string | undefined;
 //# sourceMappingURL=index.d.ts.map
