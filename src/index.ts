@@ -9,8 +9,8 @@ export function add() {
     return (tmp);
 }
 
-export function cancat() {
-    var tmp;
+export function concat() {
+    var tmp="";
     for (let index = 0; index < arguments.length; index++) {
         const element = arguments[index];
         if (typeof element == 'string') {
@@ -19,4 +19,3 @@ export function cancat() {
     }
     return (tmp);
 }
-

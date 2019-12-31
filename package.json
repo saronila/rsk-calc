@@ -1,6 +1,6 @@
 {
   "name": "rsk-calc",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "lib/index.js",
   "directories": {
@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saronila/rskrs.git"
+    "url": "git+https://github.com/saronila/rsk-calc.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saronila/rskrs/issues"
+    "url": "https://github.com/saronila/rsk-calc/issues"
   },
-  "homepage": "https://github.com/saronila/rskrs#readme"
+  "homepage": "https://github.com/saronila/rsk-calc#readme"
 }

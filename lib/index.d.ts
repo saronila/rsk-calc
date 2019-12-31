@@ -1,3 +1,3 @@
 export declare function add(): number;
-export declare function cancat(): string | undefined;
+export declare function concat(): string;
 //# sourceMappingURL=index.d.ts.map
